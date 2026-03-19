@@ -1,0 +1,2 @@
+# freezetradeLEGITHUBB
+funcionando. sem patch.
